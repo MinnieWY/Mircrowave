@@ -35,4 +35,4 @@ Food.java -> Constructor cannot update the attribut 'skin' and 'shell'
 
 
 ### Contributor
-[W.Y. Minnie](https://github.com/MinnieWY)
+[Minnie W.Y.](https://github.com/MinnieWY)
