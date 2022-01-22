@@ -7,10 +7,10 @@ Encounting question: (Feel free to let me know the reasons Thanks so much)
 Food.java -> Constructor cannot update the attribut 'skin' and 'shell'
 
 ## Table of Contents
-1. [Function](Function)
-2. [Command](Command)
-3. [OOP Design](Design)
-4. [Contributor](Contributor)
+1. [Function]
+2. [Command]
+3. [OOP Design]
+4. [Contributor]
 
 ### Function
 - Adding Microwave
